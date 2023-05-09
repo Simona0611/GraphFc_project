@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1579010943 source:c:\users\black\documents\github\graficul-functiei\graficulfunctiei\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<cstring>
+	<cmath>
+	<windows.h>
+	<mmsystem.h>
+	<winbgim.h>
+	<graphics.h>
+	"tinyexpr.h"
+	"esential.h"
+
+1526006453 c:\users\black\documents\github\graficul-functiei\graficulfunctiei\tinyexpr.h
+
+1576852257 source:c:\users\black\documents\github\graficul-functiei\graficulfunctiei\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+
+1578666745 source:c:\users\black\documents\github\graficul-functiei\graficulfunctiei\esential.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	"esential.h"
+
+1578666101 c:\users\black\documents\github\graficul-functiei\graficulfunctiei\esential.h
+
+1579029420 source:c:\users\corina simona\desktop\proiect ip final\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<cstring>
+	<cmath>
+	<windows.h>
+	<mmsystem.h>
+	<winbgim.h>
+	<graphics.h>
+	"tinyexpr.h"
+	"esential.h"
+
+1579029420 c:\users\corina simona\desktop\proiect ip final\tinyexpr.h
+
+1579029420 source:c:\users\corina simona\desktop\proiect ip final\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+
